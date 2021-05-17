@@ -1,17 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD:Inception version3/Assets/tes new model.fbx.meta
-<<<<<<< HEAD:Inception version3/Assets/tes inception 1.fbx.meta
-<<<<<<< HEAD:Inception version3/Assets/tes new model3.fbx.meta
-guid: f3ecc927f60dc1e43aaeefd342404fd8
-=======
-guid: 49cc0ab1b5c446044968a7ea0fa3f4e7
->>>>>>> parent of b3bc7f7 (update light and material rendered):Inception version3/Assets/tes inception 1.fbx.meta
-=======
-guid: 6d7d9a1dfdb9597479c13d4b897d8521
->>>>>>> parent of dd3777a (Revert "update light and material rendered"):Inception version3/Assets/tes new model.fbx.meta
-=======
-guid: c1efa0c385435b54d94e9adef1897f23
->>>>>>> parent of a57db39 (tes):Inception version3/Assets/final tes.fbx.meta
+guid: a85d384d98751c44c83e603dcea32e7f
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
@@ -54,10 +42,10 @@ ModelImporter:
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 0
-    importLights: 0
+    importLights: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
