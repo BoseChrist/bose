@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Inception version3/Assets/tes new model.fbx.meta
 <<<<<<< HEAD:Inception version3/Assets/tes inception 1.fbx.meta
 <<<<<<< HEAD:Inception version3/Assets/tes new model3.fbx.meta
 guid: f3ecc927f60dc1e43aaeefd342404fd8
@@ -8,6 +9,9 @@ guid: 49cc0ab1b5c446044968a7ea0fa3f4e7
 =======
 guid: 6d7d9a1dfdb9597479c13d4b897d8521
 >>>>>>> parent of dd3777a (Revert "update light and material rendered"):Inception version3/Assets/tes new model.fbx.meta
+=======
+guid: c1efa0c385435b54d94e9adef1897f23
+>>>>>>> parent of a57db39 (tes):Inception version3/Assets/final tes.fbx.meta
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
