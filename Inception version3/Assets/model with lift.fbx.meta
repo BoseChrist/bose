@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 14a85073cf4a70345b2fe340b38bb041
+guid: d336ac2d5a63f0f4a80091f54eaab7dc
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
@@ -44,7 +44,7 @@ ModelImporter:
     importCameras: 0
     importLights: 0
     fileIdsGeneration: 2
-    swapUVChannels: 1
+    swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
@@ -55,8 +55,8 @@ ModelImporter:
     minBoneWeight: 0.001
     meshOptimizationFlags: -1
     indexFormat: 0
-    secondaryUVAngleDistortion: 75
-    secondaryUVAreaDistortion: 75
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 0
