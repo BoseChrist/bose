@@ -2,13 +2,13 @@
 
 public class Rotator : MonoBehaviour
 {
-    [SerializedField] float rotationSpeed = 100f;
+    float rotationSpeed = 100f;
     bool dragging = false;
-    Rigidbody rb;
+    
     // Start is called before the first frame update
     void Start()
     {
-        rb = GetComponent<Rigidbody>();
+       
     }
 
 
@@ -28,11 +28,11 @@ public class Rotator : MonoBehaviour
     {
         if (dragging)
         {
-            float x = Input.GetAxis ("Mouse X") * rotationSpeed * Time.fixedDeltaTime;
-            float y = Input.GetAxis ("Mouse Y") * rotationspeed * Time.fixedDeltaTime;
+            float z = Input.GetAxis ("Mouse Z") * rotationSpeed * Time.fixedDeltaTime;
+            z += Time.deltaTime * 10;
+            transform.rotation = Quaternion.Euler(0, 0, z);
 
-            rb.AddTorque(Vector3.down * x);
-            rb.AddTorque(Vector3.right * x);
+
         }
     }
 }
