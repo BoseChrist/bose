@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class code : MonoBehaviour
 {
-    float rotationSpeed = 100f;
+    float rotationSpeed = 5f;
     bool dragging = false;
     float x;
     // Update is called once per frame
