@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: 4c9d451ce1786414789e4bfbcb2470a2
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -2417318990086507078
+    second: Camera.038|Camera.001Action.011
+  - first:
+      74: -7293134206902642042
+    second: Camera.038|Mesh1 G_3DGeom_4 Group1 JH2_HIGH_06 Assembly_19_1 ModelAction
+  - first:
+      74: 6058512920701518571
+    second: Camera.038|Mesh10 Group6 Assembly_19_1 ModelAction
+  - first:
+      74: 253281987022035208
+    second: Camera.038|Mesh14 G_3DGeom_1 Assembly_19_1 ModelAction
+  - first:
+      74: 6328519987184538375
+    second: Camera.038|Mesh2 G_3DGeom_2 Group2 JH2_HIGH_03 Assembly_19_1 ModelAction
+  - first:
+      74: -992680301777338413
+    second: Camera.038|Mesh3 G_3DGeom_3 Group3 JH2_HIGH_02 Assembly_19_1 ModelAction
+  - first:
+      74: 599987350381830569
+    second: Camera.038|Mesh4 G_3DGeom_7 Group4 Assembly_19_1 ModelAction
+  - first:
+      74: 5876772921184082874
+    second: Camera.038|Mesh5 G_3DGeom_8 Group5 Assembly_19_1 ModelAction
+  - first:
+      74: -5194825065088447601
+    second: Mesh1 G_3DGeom_4 Group1 JH2_HIGH_06 Assembly_19_1 Model|Camera.001Action.011
+  - first:
+      74: -2598231104084627145
+    second: Mesh1 G_3DGeom_4 Group1 JH2_HIGH_06 Assembly_19_1 Model|Mesh1 G_3DGeom_4
+      Group1 JH2_HIGH_06 Assembly_19_1 ModelAction
+  - first:
+      74: 1418687223511977622
+    second: Mesh1 G_3DGeom_4 Group1 JH2_HIGH_06 Assembly_19_1 Model|Mesh10 Group6
+      Assembly_19_1 ModelAction
+  - first:
+      74: 2832297724253934061
+    second: Mesh1 G_3DGeom_4 Group1 JH2_HIGH_06 Assembly_19_1 Model|Mesh14 G_3DGeom_1
+      Assembly_19_1 ModelAction
+  - first:
+      74: -5640832216864914703
+    second: Mesh1 G_3DGeom_4 Group1 JH2_HIGH_06 Assembly_19_1 Model|Mesh2 G_3DGeom_2
+      Group2 JH2_HIGH_03 Assembly_19_1 ModelAction
+  - first:
+      74: 3985765709401200383
+    second: Mesh1 G_3DGeom_4 Group1 JH2_HIGH_06 Assembly_19_1 Model|Mesh3 G_3DGeom_3
+      Group3 JH2_HIGH_02 Assembly_19_1 ModelAction
+  - first:
+      74: -1271579914072041152
+    second: Mesh1 G_3DGeom_4 Group1 JH2_HIGH_06 Assembly_19_1 Model|Mesh4 G_3DGeom_7
+      Group4 Assembly_19_1 ModelAction
+  - first:
+      74: -6015180960188007506
+    second: Mesh1 G_3DGeom_4 Group1 JH2_HIGH_06 Assembly_19_1 Model|Mesh5 G_3DGeom_8
+      Group5 Assembly_19_1 ModelAction
+  - first:
+      74: -280679851777009363
+    second: Mesh2 G_3DGeom_2 Group2 JH2_HIGH_03 Assembly_19_1 Model|Camera.001Action.011
+  - first:
+      74: 1376353906167842747
+    second: Mesh2 G_3DGeom_2 Group2 JH2_HIGH_03 Assembly_19_1 Model|Mesh1 G_3DGeom_4
+      Group1 JH2_HIGH_06 Assembly_19_1 ModelAction
+  - first:
+      74: -4686291173555424534
+    second: Mesh2 G_3DGeom_2 Group2 JH2_HIGH_03 Assembly_19_1 Model|Mesh10 Group6
+      Assembly_19_1 ModelAction
+  - first:
+      74: 2478454603068460217
+    second: Mesh2 G_3DGeom_2 Group2 JH2_HIGH_03 Assembly_19_1 Model|Mesh14 G_3DGeom_1
+      Assembly_19_1 ModelAction
+  - first:
+      74: 4853904721571115270
+    second: Mesh2 G_3DGeom_2 Group2 JH2_HIGH_03 Assembly_19_1 Model|Mesh2 G_3DGeom_2
+      Group2 JH2_HIGH_03 Assembly_19_1 ModelAction
+  - first:
+      74: -8589249047000356223
+    second: Mesh2 G_3DGeom_2 Group2 JH2_HIGH_03 Assembly_19_1 Model|Mesh3 G_3DGeom_3
+      Group3 JH2_HIGH_02 Assembly_19_1 ModelAction
+  - first:
+      74: 6474970507345379442
+    second: Mesh2 G_3DGeom_2 Group2 JH2_HIGH_03 Assembly_19_1 Model|Mesh4 G_3DGeom_7
+      Group4 Assembly_19_1 ModelAction
+  - first:
+      74: -9138157230104552747
+    second: Mesh2 G_3DGeom_2 Group2 JH2_HIGH_03 Assembly_19_1 Model|Mesh5 G_3DGeom_8
+      Group5 Assembly_19_1 ModelAction
+  - first:
+      74: -4558497624015029643
+    second: Mesh3 G_3DGeom_3 Group3 JH2_HIGH_02 Assembly_19_1 Model|Camera.001Action.011
+  - first:
+      74: 3557839872478456257
+    second: Mesh3 G_3DGeom_3 Group3 JH2_HIGH_02 Assembly_19_1 Model|Mesh1 G_3DGeom_4
+      Group1 JH2_HIGH_06 Assembly_19_1 ModelAction
+  - first:
+      74: -7698481305034082786
+    second: Mesh3 G_3DGeom_3 Group3 JH2_HIGH_02 Assembly_19_1 Model|Mesh10 Group6
+      Assembly_19_1 ModelAction
+  - first:
+      74: 6668959263528541662
+    second: Mesh3 G_3DGeom_3 Group3 JH2_HIGH_02 Assembly_19_1 Model|Mesh14 G_3DGeom_1
+      Assembly_19_1 ModelAction
+  - first:
+      74: 2303781214331295608
+    second: Mesh3 G_3DGeom_3 Group3 JH2_HIGH_02 Assembly_19_1 Model|Mesh2 G_3DGeom_2
+      Group2 JH2_HIGH_03 Assembly_19_1 ModelAction
+  - first:
+      74: -9081274284396170670
+    second: Mesh3 G_3DGeom_3 Group3 JH2_HIGH_02 Assembly_19_1 Model|Mesh3 G_3DGeom_3
+      Group3 JH2_HIGH_02 Assembly_19_1 ModelAction
+  - first:
+      74: 1185753834276743069
+    second: Mesh3 G_3DGeom_3 Group3 JH2_HIGH_02 Assembly_19_1 Model|Mesh4 G_3DGeom_7
+      Group4 Assembly_19_1 ModelAction
+  - first:
+      74: -1050816987432995641
+    second: Mesh3 G_3DGeom_3 Group3 JH2_HIGH_02 Assembly_19_1 Model|Mesh5 G_3DGeom_8
+      Group5 Assembly_19_1 ModelAction
+  - first:
+      74: 8613698094787920652
+    second: Mesh4 G_3DGeom_7 Group4 Assembly_19_1 Model|Camera.001Action.011
+  - first:
+      74: -9035249775492504042
+    second: Mesh4 G_3DGeom_7 Group4 Assembly_19_1 Model|Mesh1 G_3DGeom_4 Group1 JH2_HIGH_06
+      Assembly_19_1 ModelAction
+  - first:
+      74: -4780043684365412056
+    second: Mesh4 G_3DGeom_7 Group4 Assembly_19_1 Model|Mesh10 Group6 Assembly_19_1
+      ModelAction
+  - first:
+      74: -463924992358967535
+    second: Mesh4 G_3DGeom_7 Group4 Assembly_19_1 Model|Mesh14 G_3DGeom_1 Assembly_19_1
+      ModelAction
+  - first:
+      74: 2129113835081447031
+    second: Mesh4 G_3DGeom_7 Group4 Assembly_19_1 Model|Mesh2 G_3DGeom_2 Group2 JH2_HIGH_03
+      Assembly_19_1 ModelAction
+  - first:
+      74: 3994094777376067741
+    second: Mesh4 G_3DGeom_7 Group4 Assembly_19_1 Model|Mesh3 G_3DGeom_3 Group3 JH2_HIGH_02
+      Assembly_19_1 ModelAction
+  - first:
+      74: 3110374171894959608
+    second: Mesh4 G_3DGeom_7 Group4 Assembly_19_1 Model|Mesh4 G_3DGeom_7 Group4 Assembly_19_1
+      ModelAction
+  - first:
+      74: 6798618947109076804
+    second: Mesh4 G_3DGeom_7 Group4 Assembly_19_1 Model|Mesh5 G_3DGeom_8 Group5 Assembly_19_1
+      ModelAction
+  - first:
+      74: -2653635460914816851
+    second: Mesh5 G_3DGeom_8 Group5 Assembly_19_1 Model|Camera.001Action.011
+  - first:
+      74: -3871331921000528457
+    second: Mesh5 G_3DGeom_8 Group5 Assembly_19_1 Model|Mesh1 G_3DGeom_4 Group1 JH2_HIGH_06
+      Assembly_19_1 ModelAction
+  - first:
+      74: 8413308091559836142
+    second: Mesh5 G_3DGeom_8 Group5 Assembly_19_1 Model|Mesh10 Group6 Assembly_19_1
+      ModelAction
+  - first:
+      74: 2230779363045581683
+    second: Mesh5 G_3DGeom_8 Group5 Assembly_19_1 Model|Mesh14 G_3DGeom_1 Assembly_19_1
+      ModelAction
+  - first:
+      74: -4430931411586735266
+    second: Mesh5 G_3DGeom_8 Group5 Assembly_19_1 Model|Mesh2 G_3DGeom_2 Group2 JH2_HIGH_03
+      Assembly_19_1 ModelAction
+  - first:
+      74: 1046315395765923347
+    second: Mesh5 G_3DGeom_8 Group5 Assembly_19_1 Model|Mesh3 G_3DGeom_3 Group3 JH2_HIGH_02
+      Assembly_19_1 ModelAction
+  - first:
+      74: -4272736765755892809
+    second: Mesh5 G_3DGeom_8 Group5 Assembly_19_1 Model|Mesh4 G_3DGeom_7 Group4 Assembly_19_1
+      ModelAction
+  - first:
+      74: -8606960884967412652
+    second: Mesh5 G_3DGeom_8 Group5 Assembly_19_1 Model|Mesh5 G_3DGeom_8 Group5 Assembly_19_1
+      ModelAction
+  - first:
+      74: -7787136503674891757
+    second: Mesh10 Group6 Assembly_19_1 Model|Camera.001Action.011
+  - first:
+      74: 8031639765566029942
+    second: Mesh10 Group6 Assembly_19_1 Model|Mesh1 G_3DGeom_4 Group1 JH2_HIGH_06
+      Assembly_19_1 ModelAction
+  - first:
+      74: 6710858744560667601
+    second: Mesh10 Group6 Assembly_19_1 Model|Mesh10 Group6 Assembly_19_1 ModelAction
+  - first:
+      74: 4114589631411827512
+    second: Mesh10 Group6 Assembly_19_1 Model|Mesh14 G_3DGeom_1 Assembly_19_1 ModelAction
+  - first:
+      74: -8659158034311701587
+    second: Mesh10 Group6 Assembly_19_1 Model|Mesh2 G_3DGeom_2 Group2 JH2_HIGH_03
+      Assembly_19_1 ModelAction
+  - first:
+      74: -4252985084088540738
+    second: Mesh10 Group6 Assembly_19_1 Model|Mesh3 G_3DGeom_3 Group3 JH2_HIGH_02
+      Assembly_19_1 ModelAction
+  - first:
+      74: -5359360378247478804
+    second: Mesh10 Group6 Assembly_19_1 Model|Mesh4 G_3DGeom_7 Group4 Assembly_19_1
+      ModelAction
+  - first:
+      74: -2893046570132386875
+    second: Mesh10 Group6 Assembly_19_1 Model|Mesh5 G_3DGeom_8 Group5 Assembly_19_1
+      ModelAction
+  - first:
+      74: 5105488151567219601
+    second: Mesh14 G_3DGeom_1 Assembly_19_1 Model|Camera.001Action.011
+  - first:
+      74: 3807773259244454756
+    second: Mesh14 G_3DGeom_1 Assembly_19_1 Model|Mesh1 G_3DGeom_4 Group1 JH2_HIGH_06
+      Assembly_19_1 ModelAction
+  - first:
+      74: -3397150077099744337
+    second: Mesh14 G_3DGeom_1 Assembly_19_1 Model|Mesh10 Group6 Assembly_19_1 ModelAction
+  - first:
+      74: -5174968800052590838
+    second: Mesh14 G_3DGeom_1 Assembly_19_1 Model|Mesh14 G_3DGeom_1 Assembly_19_1
+      ModelAction
+  - first:
+      74: -8509511948891459208
+    second: Mesh14 G_3DGeom_1 Assembly_19_1 Model|Mesh2 G_3DGeom_2 Group2 JH2_HIGH_03
+      Assembly_19_1 ModelAction
+  - first:
+      74: 7267118507655263723
+    second: Mesh14 G_3DGeom_1 Assembly_19_1 Model|Mesh3 G_3DGeom_3 Group3 JH2_HIGH_02
+      Assembly_19_1 ModelAction
+  - first:
+      74: 4331429825938772648
+    second: Mesh14 G_3DGeom_1 Assembly_19_1 Model|Mesh4 G_3DGeom_7 Group4 Assembly_19_1
+      ModelAction
+  - first:
+      74: 8406034517206852381
+    second: Mesh14 G_3DGeom_1 Assembly_19_1 Model|Mesh5 G_3DGeom_8 Group5 Assembly_19_1
+      ModelAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
